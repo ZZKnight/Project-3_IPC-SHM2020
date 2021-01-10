@@ -1,0 +1,10 @@
+dataset_id,dataset_name,dataset_name_,test_accuracy
+0,cfPre2011,lstmfcn_8_cells_weights/cfPre2011,0.591711
+0,cfPre2011,lstmfcn_8_cells_weights/cfPre2011,0.591711
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.961199
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.578042
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.017544
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.961199
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.982657
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.982657
+0,cfrPre2011,lstmfcn_8_cells_weights/cfrPre2011,0.982657

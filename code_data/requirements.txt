@@ -1,0 +1,9 @@
+tensorflow-gpu>=1.15
+keras
+scipy
+numpy
+pandas
+scikit-learn>=0.18.2
+h5py
+matplotlib
+joblib>=0.12
